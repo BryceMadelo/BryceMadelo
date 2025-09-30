@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m a Computer Engineering graduate 
+🔭 I’m a Computer Engineering graduate                                
 🌱 My interest include building projects on web and mobile development.  
 🤔 I am learning more about backend development, especially databases management.
 <!--
